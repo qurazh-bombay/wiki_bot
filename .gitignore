@@ -1,0 +1,7 @@
+###> phpstorm ###
+.idea
+###> phpstorm ###
+
+/vendor/
+
+wiki_debug.log
